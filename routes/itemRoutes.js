@@ -22,12 +22,12 @@ router.post('/notes', (req, res) => {
       title: req.body.title,
       id: uuid.v1(),
       text: req.body.text,
-      
+
     }
     notes.push(note)
 
     fs.writeFile(join(__dirname, '..', 'db', 'db.json'), JSON.stringify(notes), err => {
-      if (err) { console.log(err) } 
+      if (err) { console.log(err) }
 
       res.json(note)
     })
