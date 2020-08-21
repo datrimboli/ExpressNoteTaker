@@ -16,4 +16,4 @@ Add as many notes as you want, then delete them with the trashcan icon next to t
 
 The pencil icon in the top right corner next to the save icon will clear the message field if you want to re-type your note
 
-Deployed link on Heroku: 
+Deployed link on Heroku: https://protected-citadel-67708.herokuapp.com/
