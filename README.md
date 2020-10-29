@@ -8,3 +8,4 @@ This is a Note Taker app that allows the user to make, save, and delete notes It
 
 ![Screenshot](./public/photos/screenshots/note1.png)
 ![Screenshot](./public/photos/screenshots/note2.png)
+ 
